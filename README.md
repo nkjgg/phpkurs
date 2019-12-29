@@ -1,2 +1,0 @@
-# phpkurs
-php
